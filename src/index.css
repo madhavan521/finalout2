@@ -39,16 +39,7 @@
   transform: scale(1.05);  
 }  
 
-/* Media query for smaller screens */  
-/* @media (max-width: 768px) {  
-  .loginButton {  
-    padding: 8px 20px; /* Smaller padding */  
-    /* font-size: 0.9em; /* Smaller font size */  
-    /* margin: 5px; /* Smaller margins */  
-  /* }  
-}   */ */ */
-   
-
+  
 
 body{
   /* background-color: #e4eaddfd; */
